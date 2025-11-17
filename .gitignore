@@ -1,0 +1,16 @@
+*/build/
+*/dist/
+
+*/nbproject/private/
+
+*/nbproject/build-impl.xml
+*/nbproject/genfiles.properties
+*/nbproject/Makefile-*
+
+
+*.jar
+*.war
+*.zip
+
+.DS_Store
+Thumbs.db
